@@ -2,6 +2,9 @@
 
 The aim of this library is to provide ML-based cell tracking solutions for yeast cells, using a novel time-symmetric tracking approach. It is based on a collaborative research project between [PPCU](https://itk.ppke.hu/en) and [IFOM](https://www.ifom.eu/en/).
 
+The codebase in this repository is frozen at the time of publication for transparency purposes. For the dynamically updated code versions, please visit:
+https://github.com/SzaboGergely0419/Symmetry-Tracker
+
 Paper publication is still in progress, for the preprint version please check out: 
 https://arxiv.org/abs/2308.03887
 
@@ -43,11 +46,11 @@ https://users.itk.ppke.hu/~szage11/IFOM%20tracking/SampleData/
 Example full run:
 [![Open In Colab](https://img.shields.io/badge/Open%20in%20Colab-Open%20Notebook-blue?logo=google-colab)](https://colab.research.google.com/drive/1RezYwQdPQ-eFsBE7oWcIbqv4ylTywhs2?usp=drive_link)
 
-## Example Results (Videos)
+## Example Prediction Videos
 
 For example prediction videos of yeast tracking and various synthetic object tracking scenarios, check the sample_results folder.
 
-(The videos will be not displayed on github, they need to be downloaded.)
+The videos will be not displayed on github, they need to be downloaded.
 
 ## Main functionalities
 
