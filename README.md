@@ -2,7 +2,7 @@
 
 The aim of this library is to provide ML-based cell tracking solutions for yeast cells, using a novel time-symmetric tracking approach. It is based on a collaborative research project between [PPCU](https://itk.ppke.hu/en) and [IFOM](https://www.ifom.eu/en/).
 
-The codebase in this repository is frozen at the time of publication for transparency purposes. For the dynamically updated code versions, please visit:
+The codebase in this repository is frozen at the time of publication for transparency. For the dynamically updated code versions, please visit:
 https://github.com/SzaboGergely0419/Symmetry-Tracker
 
 Paper publication is still in progress, for the preprint version please check out: 
