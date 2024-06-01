@@ -43,6 +43,10 @@ https://users.itk.ppke.hu/~szage11/IFOM%20tracking/SampleData/
 Example full run:
 [![Open In Colab](https://img.shields.io/badge/Open%20in%20Colab-Open%20Notebook-blue?logo=google-colab)](https://colab.research.google.com/drive/1RezYwQdPQ-eFsBE7oWcIbqv4ylTywhs2?usp=drive_link)
 
+## Example Results (Videos)
+
+For example prediction videos of yeast tracking and various synthetic object tracking scenarios, check the sample_results folder
+
 ## Main functionalities
 
 All fuctionalities which are intended to be directly used are listed here. The other functions and classes in the library have supportive roles and are only intended to be utilized by the functions listed here.
