@@ -45,7 +45,9 @@ Example full run:
 
 ## Example Results (Videos)
 
-For example prediction videos of yeast tracking and various synthetic object tracking scenarios, check the sample_results folder
+For example prediction videos of yeast tracking and various synthetic object tracking scenarios, check the sample_results folder.
+
+(The videos will be not displayed on github, they need to be downloaded.)
 
 ## Main functionalities
 
